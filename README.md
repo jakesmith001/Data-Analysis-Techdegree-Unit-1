@@ -1,2 +1,3 @@
 # Data Analysis Techdegree Unit 1
  
+The number guessing game is the first project in the Treehouse Data Analysis Techdegree. The purpose of the game is to continuously ask the player to provide an integer while guessing a randomly chosen answer between 1-100. Once the player guesses the correct number, they will be asked if they want to play again. If the chose to do so, the game will generate a new random number to guess. If not, the game will simply end.
